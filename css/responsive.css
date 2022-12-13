@@ -1,0 +1,22 @@
+@media(max-width:768px){
+    .logo{
+        width: 30%;
+    }
+    .nav-item ul{
+        display: none;
+    }
+    .nav-item-icon{
+        display: block;
+    }
+
+}
+
+
+@media(max-width:294px){
+    .stuDetails1Text h4{
+        font-size: 17px;
+    }
+    .stuDetails1Text h5{
+        font-size:15px ;
+    }
+}
